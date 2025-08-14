@@ -15,12 +15,6 @@
 
 ---
 
-## 🚀 주요 저장소
-- [2025HearAI_Fall](https://github.com/2025HearAIFall)
-  2학기 버전. 모델 경량화, 성능 개선, 모바일/웹 최적화 진행 중.
-
----
-
 ## 👥 팀 구성
 - [임승우](https://github.com/WooSeung00)
 - [김세진](https://github.com/segenie)
@@ -28,7 +22,7 @@
 ---
 
 ## 📬 문의
-- 이메일: dlatmddn5584@naver.com
+- [이메일](mailto:dlatmddn5584@naver.com)
 
 ---
 
