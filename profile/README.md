@@ -18,6 +18,7 @@
 ## 👥 팀 구성
 - [임승우](https://github.com/WooSeung00)
 - [김세진](https://github.com/segenie)
+- [문석영](https://github.com/anstjrdud)
 
 ---
 
